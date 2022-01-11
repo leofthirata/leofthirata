@@ -2,4 +2,4 @@
 
 - :student: MSc Student @ State University of Londrina - [UEL](https://www.uel.br)
 - 🤖 Embedded Systems Developer @ [Hausenn Technologies](https://www.hausenn.com.br) :computer: :zap: :hammer_and_wrench:
-- 👨‍💻 C, C++, Javascript, Typescript
+- 👨‍💻 C, C++, Javascript and Typescript
