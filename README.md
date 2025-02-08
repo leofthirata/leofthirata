@@ -1,5 +1,15 @@
 <h1>Leonardo Hirata</h1>
 
-- :student: Electrical Engineer @ State University of Londrina - [UEL](https://www.uel.br)
-- 🤖 Embedded Systems Engineer @ [F&K Group](https://www.fkgroup.com.br/en/) :computer: :zap: :hammer_and_wrench:
-- 👨‍💻 C/C++ and Python
+Embedded Software Engineer · Working with Software/Embedded Software development since 2020
+
+Experience in designing and maintaining embedded products (mainly IoT devices) with experience in: Embedded software development and hardware design (RF and multilayer).
+
+Working on my way to be a Linux Kernel contributor.
+
+---
+#### Most used technologies
+- C, C++, Linux, Python, git, gdb.
+
+#### Send me a message!
+- https://www.linkedin.com/in/leofthirata
+- leofthirata@gmail.com
