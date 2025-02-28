@@ -1,6 +1,6 @@
 <h1>Leonardo Hirata</h1>
 
-Embedded Software Engineer · Working with Software/Embedded Software development since 2020
+Embedded Software Engineer
 
 Experience in designing and maintaining embedded products (mainly IoT devices) with experience in: Embedded software development and hardware design (RF and multilayer).
 
