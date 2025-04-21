@@ -2,11 +2,9 @@
 
 Embedded Software Engineer
 
-Experience in designing and maintaining embedded products (mainly IoT devices) with experience in: 
-- Embedded software development;
+Experience in designing embedded products (mainly IoT devices) with experience in: 
+- Embedded software development (RTOS with C++);
 - Hardware design (RF and multilayer).
-
-Working on my way to be a Linux Kernel contributor.
 
 ---
 #### Most used technologies
